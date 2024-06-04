@@ -13,8 +13,8 @@ Before using this tool, you need to install the Pillow library, which provides i
 
 ```bash
 pip install Pillow
-Usage:
 
+Usage:
 Run the script: python image_encryption.py (replace image_encryption.py with your actual script name)
 The program will display a menu:
 e - Encrypt image
