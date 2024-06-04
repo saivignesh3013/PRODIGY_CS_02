@@ -1,19 +1,18 @@
-# PRODIGY_CS_02
-Image Encryption and Decryption Tool
+# Image Encryption and Decryption Tool
 
 This Python tool allows you to encrypt and decrypt images using a simple Caesar Cipher-like approach.
 
-Features:
+**Features:**
 
-Encrypts images using a user-provided key.
-Decrypts encrypted images using the same key.
-Installation:
+* Encrypts images using a user-provided key.
+* Decrypts encrypted images using the same key.
+
+**Installation:**
 
 Before using this tool, you need to install the Pillow library, which provides image processing functionalities. You can install it using the following command:
 
-Bash
+```bash
 pip install Pillow
-Use code with caution.
 Usage:
 
 Run the script: python image_encryption.py (replace image_encryption.py with your actual script name)
