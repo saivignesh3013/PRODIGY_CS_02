@@ -28,8 +28,8 @@ If you select decryption (d):
 Enter the decryption key (must match the encryption key you used).
 Enter the location of the encrypted image.
 The program will process the image and save the encrypted/decrypted version as encrypted_image.png or decrypted_image.png respectively.
-Note:
 
+Note:
 Due to the simplicity of the encryption method used, the quality of the decrypted image might be slightly lower compared to the original image. This is because of integer division and potential information loss.
 For stronger encryption, consider exploring more complex encryption algorithms.
 Author:
