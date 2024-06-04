@@ -32,10 +32,9 @@ The program will process the image and save the encrypted/decrypted version as e
 Note:
 Due to the simplicity of the encryption method used, the quality of the decrypted image might be slightly lower compared to the original image. This is because of integer division and potential information loss.
 For stronger encryption, consider exploring more complex encryption algorithms.
-Author:
 
+Author:
 Erramsetti Sai Vignesh
 
 Disclaimer:
-
 This tool is for educational purposes only. Please use it responsibly and be aware that it might not provide a high level of security for sensitive data.
