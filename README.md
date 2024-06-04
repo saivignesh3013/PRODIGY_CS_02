@@ -12,7 +12,7 @@
 Before embarking on your image encryption journey, you'll need to install the Pillow library. This library provides essential functionalities for image processing. You can install it using the following command:
 
 ```bash
-'pip install Pillow'
+pip install Pillow
 
 Usage:
 Save the Script: Save the script as image_encryption.py (or your preferred name).
